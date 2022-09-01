@@ -1,0 +1,10 @@
+.screen-header_icons_dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  display: flex;
+  position: absolute; /*absolute는 relative하는거 잊지 않기!*/
+  left: 20px;
+  bottom: 20px;
+}
